@@ -13,9 +13,9 @@ During my course of study, I have become familiar with different planning strate
 Introduction to Computer Science, Introduction to Computer Programming, Data Structures.
 Stacks, Queues, Files, Binary Trees, Maps.
 
-Languages: Python, C++, Java, HTML, C#, Rust.
-Software: Git, VSCode, Python IDLE, Vim, Unity.
-Operating Systems: Unix\Linux, Windows.
+- Languages: Python, C++, Java, HTML, C#, Rust.
+- Software: Git, VSCode, Python IDLE, Vim, Unity.
+- Operating Systems: Unix\Linux, Windows.
 
 
 [Link](https://github.com/ymrUPR/proyects) - Github Proyect Repo
