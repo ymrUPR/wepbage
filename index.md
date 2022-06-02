@@ -4,28 +4,22 @@ My name is Yadiel Mercado Rivera from the town of Morovis, P.R. I am a student o
 
 ### Work Experience
 
-I haven't any actual paid work experience in the field of computer sciences as of today, however outside of the field I find myself working as a part-time dish washer in a mexican themed restaurant in Dorado [maybe add more information] 
+Currently, I work as a dishwasher in the restaurant.  My responsibilities are not limited to the cleaning dishes, prepare both drink and meal ingredients, prepare main course dishes, work the storage and deliver food in Dorado.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Education
 
-- Bulleted
-- List
+During my course of study, I have become familiar with different planning strategies such as pseudocode and flowcharts. I have around 3 years of experience in C++ having worked with data structures. Overall, I am familiar with both project management & documentation and programming.
+Introduction to Computer Science, Introduction to Computer Programming, Data Structures.
+Stacks, Queues, Files, Binary Trees, Maps.
 
-1. Numbered
-2. List
+[Link](https://github.com/ymrUPR/proyects) - #Github Proyect Repo
+- Browser Simulation: Small browser simulation that utilizes a Stack ADT to store user validated “websites” to visit.
+- DNA Pattern “Analysis”: Stanford project where given a file with names and how many times a DNA STR repeats itself for each person, figure out who’s DNA strand another file belongs to using Queues, Maps and Vectors.
+- Binary Max Heap: Implementation of a Binary Max Heap using only Linked Nodes.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 
 ### Contact
 #### Phone Number:
