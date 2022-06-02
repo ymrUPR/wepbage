@@ -13,6 +13,11 @@ During my course of study, I have become familiar with different planning strate
 Introduction to Computer Science, Introduction to Computer Programming, Data Structures.
 Stacks, Queues, Files, Binary Trees, Maps.
 
+Languages: Python, C++, Java, HTML, C#, Rust.
+Software: Git, VSCode, Python IDLE, Vim, Unity.
+Operating Systems: Unix\Linux, Windows.
+
+
 [Link](https://github.com/ymrUPR/proyects) - Github Proyect Repo
 - Browser Simulation: Small browser simulation that utilizes a Stack ADT to store user validated “websites” to visit.
 - DNA Pattern “Analysis”: Stanford project where given a file with names and how many times a DNA STR repeats itself for each person, figure out who’s DNA strand another file belongs to using Queues, Maps and Vectors.
