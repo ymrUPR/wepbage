@@ -7,7 +7,7 @@ My name is Yadiel Mercado Rivera from the town of Morovis, P.R. I am a student o
 Currently, I work as a dishwasher in the restaurant.  My responsibilities are not limited to the cleaning dishes, prepare both drink and meal ingredients, prepare main course dishes, work the storage and deliver food in Dorado.
 
 
-Education
+### Education
 
 During my course of study, I have become familiar with different planning strategies such as pseudocode and flowcharts. I have around 3 years of experience in C++ having worked with data structures. Overall, I am familiar with both project management & documentation and programming.
 Introduction to Computer Science, Introduction to Computer Programming, Data Structures.
