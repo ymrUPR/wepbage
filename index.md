@@ -13,7 +13,7 @@ During my course of study, I have become familiar with different planning strate
 Introduction to Computer Science, Introduction to Computer Programming, Data Structures.
 Stacks, Queues, Files, Binary Trees, Maps.
 
-[Link](https://github.com/ymrUPR/proyects) - #Github Proyect Repo
+[Link](https://github.com/ymrUPR/proyects) - # Github Proyect Repo
 - Browser Simulation: Small browser simulation that utilizes a Stack ADT to store user validated “websites” to visit.
 - DNA Pattern “Analysis”: Stanford project where given a file with names and how many times a DNA STR repeats itself for each person, figure out who’s DNA strand another file belongs to using Queues, Maps and Vectors.
 - Binary Max Heap: Implementation of a Binary Max Heap using only Linked Nodes.
