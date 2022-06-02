@@ -6,7 +6,6 @@ My name is Yadiel Mercado Rivera from the town of Morovis, P.R. I am a student o
 
 Currently, I work as a dishwasher in the restaurant.  My responsibilities are not limited to the cleaning dishes, prepare both drink and meal ingredients, prepare main course dishes, work the storage and deliver food in Dorado.
 
-```markdown
 
 Education
 
@@ -19,7 +18,6 @@ Stacks, Queues, Files, Binary Trees, Maps.
 - DNA Pattern “Analysis”: Stanford project where given a file with names and how many times a DNA STR repeats itself for each person, figure out who’s DNA strand another file belongs to using Queues, Maps and Vectors.
 - Binary Max Heap: Implementation of a Binary Max Heap using only Linked Nodes.
 
-```
 
 ### Contact
 #### Phone Number:
